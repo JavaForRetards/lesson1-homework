@@ -1,4 +1,4 @@
-# Lesson 1: Setup and Hello World
+# Homework 1: Setup and Hello World
 This lesson covered the very basics. The homework for next time is as follows:
 1. Configure Git & SSH
 2. Create project
